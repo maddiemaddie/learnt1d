@@ -3,7 +3,7 @@ import Head from 'next/head'
 const Home = () => (
   <div className="container">
     <Head>
-      <title>Diabetes</title>
+      <title>Test</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
 
