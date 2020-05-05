@@ -8,7 +8,7 @@ export default function SamplePost() {
         <title>Sample Post</title>
       </Head>
       <h1>Sample Post</h1>
-      <h2>
+      <h2>This is a sample post. Click here to gom
         <Link href="/">
           <a>Back to home</a>
         </Link>
