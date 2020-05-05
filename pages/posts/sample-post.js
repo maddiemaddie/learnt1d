@@ -12,7 +12,6 @@ export default function SamplePost() {
         <Link href="/">
           <a>Back to home</a>
         </Link>
-        <br>
        <Link href="/posts/sample-post/">
           <a>Sample post</a>
       </Link>
