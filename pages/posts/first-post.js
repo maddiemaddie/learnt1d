@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import NavBar from "../components/NavBar";
+import NavBar from "../components/NavBar.js";
 
 export default function FirstPost() {
   return (
