@@ -10,8 +10,6 @@ body {
 
 * {
   box-sizing: border-box;
-  background-color: #000000;
-  color: #ffffff;
 }
 
 a {
@@ -26,4 +24,14 @@ a:hover {
 img {
   max-width: 100%;
   display: block;
+}
+
+h2 {
+  color: #5F5F5F;
+  font-weight: bold;
+}
+
+p.des {
+  color: #494949;
+  font-weight: light;
 }

@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <h2>Diabetes sucks.</h2>
-        <p>
+        <p class="des">
         We're here to help. Please click which description best fits you.
         </p>
       </section>
