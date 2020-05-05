@@ -15,6 +15,7 @@ export default function Home() {
           Click <Link href="/posts/first-post/"><a>here</a></Link> to move to the next page
           <br>
           Here is a <Link href="/posts/sample-post/"><a>Sample post</a></Link>
+          </br>
         </p>
       </section>
     </Layout>
