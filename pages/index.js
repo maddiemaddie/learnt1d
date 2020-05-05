@@ -13,9 +13,7 @@ export default function Home() {
         <p>Sample website using Next.js</p>
         <p>
           Click <Link href="/posts/first-post/"><a>here</a></Link> to move to the next page
-          <br>
           Here is a <Link href="/posts/sample-post/"><a>Sample post</a></Link>
-          </br>
         </p>
       </section>
     </Layout>
