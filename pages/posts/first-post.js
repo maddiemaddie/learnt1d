@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Head from 'next/head'
-import styles from './layout.module.css'
+import Layout, { siteTitle } from '../components/layout'
 import utilStyles from '../styles/utils.module.css'
 
 export default function FirstPost() {
