@@ -10,12 +10,12 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Sample website using Next.js</p>
+        <h2>Diabetes sucks.</h2>
         <p>
-          Click <Link href="/posts/first-post/"><a>here</a></Link> to move to the next page
-          Here is a <Link href="/posts/sample-post/"><a>Sample post</a></Link>
+        We're here to help. Please click which description best fits you.
         </p>
       </section>
+      <p>Diabetic or Supporter</p>
     </Layout>
   )
 }
