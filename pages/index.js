@@ -9,13 +9,13 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+  //    <section className={utilStyles.headingMd}>
         <h2>Diabetes sucks.</h2>
-        <p class="des">
+        <p class='des'>
         We're here to help. Please click which description best fits you.
         </p>
-      </section>
-      <p>Diabetic or Supporter</p>
+    //  </section>
+      <p<Link href='/posts/sample-post/'><a>Diabetic</a></Link> or <Link href='/posts/first-post/'><a>Supporter</a></Link></p>
     </Layout>
   )
 }
