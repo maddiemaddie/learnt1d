@@ -17,7 +17,7 @@ export default function SamplePost() {
     },
   ]}
 />
-      <h1>Sample Post</h1>
+      <h1>Sample Post with Chatbot</h1>
       <h2>This is a sample post. Click here to gom
         <Link href="/">
           <a>Back to home</a>
