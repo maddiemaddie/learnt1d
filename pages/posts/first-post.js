@@ -7,6 +7,7 @@ export default function FirstPost() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <>
       <ChatBot
         steps={[
           {
@@ -16,6 +17,7 @@ export default function FirstPost() {
           },
         ]}
       />
+    </>
       <h1>First Post</h1>
       <h2>
         <Link href="/">
