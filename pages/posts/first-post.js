@@ -7,7 +7,7 @@ export default function FirstPost() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <>
+      <div class="chatbot">
       <ChatBot
         steps={[
           {
@@ -17,7 +17,7 @@ export default function FirstPost() {
           },
         ]}
       />
-    </>
+    </div>
       <h1>First Post</h1>
       <h2>
         <Link href="/">
