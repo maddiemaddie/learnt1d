@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import ChatBot from 'react-simple-chatbot';
 
 export default function SamplePost() {
   return (
@@ -7,6 +8,15 @@ export default function SamplePost() {
       <Head>
         <title>Sample Post</title>
       </Head>
+<ChatBot
+  steps={[
+    {
+      id: 'hello-world',
+      message: 'Hello World!',
+      end: true,
+    },
+  ]}
+/>
       <h1>Sample Post</h1>
       <h2>This is a sample post. Click here to gom
         <Link href="/">
