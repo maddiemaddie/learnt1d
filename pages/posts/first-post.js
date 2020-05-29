@@ -8,7 +8,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
-      <iframe src="https://api.digitalmedia.hhs.gov/api/v2/resources/media/18240/syndicate.html?stripStyles=true&stripScripts=true&stripBreaks=false&stripImages=true&stripClasses=true&stripIds=true&displayMethod=undefined&autoplay=false&userId=4673" width="775" height="650" name="Syndicated Content" frameborder="0"></iframe>
+<div class='rid_4fedaebf_235606' data-apiroot='//tools.cdc.gov/api' data-mediatype='html' data-mediaid='235606' data-stripscripts='false' data-stripanchors='false' data-stripimages='false' data-stripcomments='true' data-stripstyles='false' data-cssclasses='syndicate' data-ids='' data-xpath='' data-oe='utf-8' data-of='xhtml' data-ns='cdc' data-postprocess='' data-nw='true' data-iframe='true' data-cdc-widget='syndicationIframe' data-apiembedsrc='//tools.cdc.gov/api/embed/html/js/embed-2.0.3.js' data-iframeembedsrc='//tools.cdc.gov/TemplatePackage/contrib/widgets/tp-widget-external-loader.js'></div>
       <h2>
         <Link href="/">
           <a>Back to home</a>
