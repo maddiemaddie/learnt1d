@@ -8,6 +8,10 @@ body {
   font-size: 18px;
 }
 
+.reference {
+  background-color: #dedede;
+}
+
 * {
   box-sizing: border-box;
 }
