@@ -8,7 +8,7 @@ export default function FirstPost() {
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
-      <h3>What is type 1 diabetes?</h3>
+      <h2>What is type 1 diabetes?</h2>
 <p>Diabetes occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes mainly from the food you eat. Insulin, a hormone made by the pancreas, helps the glucose in your blood get into your cells to be used for energy. Another hormone, glucagon, works with insulin to control blood glucose levels.
 
 In most people with type 1 diabetes, the body’s immune system, which normally fights infection, attacks and destroys the cells in the pancreas that make insulin. As a result, your pancreas stops making insulin. Without insulin, glucose can’t get into your cells and your blood glucose rises above normal. People with type 1 diabetes need to take insulin every day to stay alive.
