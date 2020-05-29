@@ -5,14 +5,14 @@ function Article() {
 <p>Diabetes occurs when your <b>blood glucose</b>, also called blood sugar, is too high. Blood glucose is your main source of energy and comes mainly from the food you eat. <b>Insulin</b>, a hormone made by the pancreas, helps the glucose in your blood get into your cells to be used for energy. Another hormone, <b>glucagon</b>, works with insulin to control blood glucose levels.
 <br>
 In most people with type 1 diabetes, the body’s immune system, which normally fights infection, attacks and destroys the cells in the pancreas that make insulin. As a result, your pancreas stops making insulin. Without insulin, glucose can’t get into your cells and your blood glucose rises above normal. People with type 1 diabetes need to take insulin every day to stay alive.
-<br>
+</br>
 People with type 1 diabetes need to take insulin every day.
 Who is more likely to develop type 1 diabetes?
 Type 1 diabetes typically occurs in children and young adults, although it can appear at any age. Having a parent or sibling with the disease may increase your chance of developing type 1 diabetes. In the United States, about 5 percent of people with diabetes have type 1.1
 <br>
 What are the symptoms of type 1 diabetes?
 Symptoms of type 1 diabetes are serious and usually happen quickly, over a few days to weeks. Symptoms can include
-<br>
+</br>
 <ul>
 <li>increased thirst and urination</li>
 <li>increased hunger</li>
