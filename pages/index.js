@@ -9,12 +9,6 @@ export default function Home() {
       <Head>
         <title>Diabetes Education</title>
       </Head>
-      <section className={utilStyles.headingMd}>
-        <p>T1D</p>
-        <p>
-          Click <Link href="/first-post/"><a>here</a></Link> to move to the next page
-        </p>
-      </section>
       <div class="syndicate">
 <h1>What is Diabetes?</h1>
 <div>
