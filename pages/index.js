@@ -9,9 +9,7 @@ export default function Home() {
       <Head>
         <title>Diabetes Education</title>
       </Head>
-      <div className="syndicate">
 <h1>What is Diabetes?</h1>
-<div>
 <p><strong>In this section:&nbsp;&nbsp;</strong></p>
 <ul>
 <li><a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A9A7D1B1D5964819A072158BB2D1F216&amp;_z=z#types">What are the different types of diabetes?</a></li>
@@ -55,8 +53,6 @@ export default function Home() {
 <p>[1] Centers for Disease Control and Prevention. National diabetes statistics report, 2017. Centers for Disease Control and Prevention website.&nbsp;<a href="https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf">www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf</a>&nbsp;(PDF, 1.3 MB)&nbsp;. Updated July, 18 2017. Accessed August 1, 2017.</p>
 </aside>
 <p>This content is provided as a service of the&nbsp;<a href="https://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases</a>&nbsp;(NIDDK), part of the National Institutes of Health. The NIDDK translates and disseminates research findings to increase knowledge and understanding about health and disease among patients, health professionals, and the public. Content produced by the NIDDK is carefully reviewed by NIDDK scientists and other experts.</p>
-</div>
-</div>
 <strong>Syndicated Content Details:</strong><br />Source URL:&nbsp;<a href="https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes">https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes</a><br />Source Agency:&nbsp;<a href="http://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</a><br />Captured Date: 2017-06-19 23:53:06.0
 </div>
     </Layout>
