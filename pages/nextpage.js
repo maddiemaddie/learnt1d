@@ -10,13 +10,6 @@ export default function nextpage() {
         <title>Diabetes Education</title>
       </Head>
 <h1>What is Diabetes?</h1>
-<p><strong>In this section:&nbsp;&nbsp;</strong></p>
-<ul>
-<li><a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A9A7D1B1D5964819A072158BB2D1F216&amp;_z=z#types">What are the different types of diabetes?</a></li>
-<li><a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A9A7D1B1D5964819A072158BB2D1F216&amp;_z=z#common">How common is diabetes?</a></li>
-<li><a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A9A7D1B1D5964819A072158BB2D1F216&amp;_z=z#morelikely">Who is more likely to develop type 2 diabetes?</a></li>
-<li><a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A9A7D1B1D5964819A072158BB2D1F216&amp;_z=z#problems">What health problems can people with diabetes develop?</a></li>
-</ul>
 <p>Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat.&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=E4F45E1ECD364F7D946A83B83003340A&amp;_z=z">Insulin</a>, a&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=0C2DFA8740434D4D9FB3D46BA0F185AB&amp;_z=z">hormone</a>&nbsp;made by the&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=7C416DD4D72945BF9B7C87D9A8B1DA3D&amp;_z=z">pancreas</a>, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn&rsquo;t make enough&mdash;or any&mdash;insulin or doesn&rsquo;t use insulin well. Glucose then stays in your blood and doesn&rsquo;t reach your cells.</p>
 <p>Over time, having too much glucose in your blood can cause&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=B07073BD1DCD453B91EA2D766C0F6312&amp;_z=z">health problems</a>. Although diabetes has no cure, you can take steps to&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=A76EE05943ED43EA982E8E16FAB6E52F&amp;_z=z">manage your diabetes</a>&nbsp;and stay healthy.</p>
 <p>Sometimes people call diabetes &ldquo;a touch of sugar&rdquo; or &ldquo;borderline diabetes.&rdquo; These terms suggest that someone doesn&rsquo;t really have diabetes or has a less serious case, but every case of diabetes is serious.</p>
