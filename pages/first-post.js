@@ -3,7 +3,7 @@ import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
 import utilStyles from '../styles/utils.module.css'
 
-export default function NextPage() {
+export default function nextpage() {
   return (
     <Layout home>
       <Head>
