@@ -6,7 +6,6 @@ export default function FirstPost() {
   return (
     <>
       <Head>
-      <html lang="en">
         <title>First Post</title>
       </Head>
       <h1>First Post</h1>
