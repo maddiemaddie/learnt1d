@@ -10,9 +10,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Type 1 Diabetes</p>
+        <p>T1D</p>
         <p>
-          Click <Link href="/posts/first-post/"><a>here</a></Link> to move to the next page
+          Click <Link href="/first-post/"><a>here</a></Link> to move to the next page
         </p>
       </section>
     </Layout>
