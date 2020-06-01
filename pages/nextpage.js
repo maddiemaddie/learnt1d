@@ -40,9 +40,11 @@ export default function nextpage() {
 <li>foot problems</li>
 </ul>
 <p>You can take steps to lower your chances of developing these&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=B07073BD1DCD453B91EA2D766C0F6312&amp;_z=z">diabetes-related health problems</a>.</p>
+<p>
 <Link href="/">
-  <a>Learn more</a>
+  <a>Back to home</a>
 </Link>
+</p>
 <div className="reference">
 <h2>References</h2>
 <aside>

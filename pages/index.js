@@ -75,9 +75,11 @@ export default function Home() {
       <p>If you have type 1 diabetes, you can help&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=B07073BD1DCD453B91EA2D766C0F6312&amp;_z=z">prevent or delay the health problems of diabetes</a>&nbsp;by managing your blood glucose, blood pressure, and cholesterol, and following your self-care plan.</p>
       <h2>Can I lower my chance of developing type 1 diabetes?</h2>
       <p>At this time, type 1 diabetes can&rsquo;t be prevented. However, through studies such as TrialNet, researchers are working to identify possible ways to prevent or slow down the disease.</p>
+      <p>
       <Link href="/nextpage">
         <a>Learn more</a>
       </Link>
+      </p>
       <div className="reference">
       <h2>References</h2>
       <aside>
