@@ -6,6 +6,7 @@
   margin: 1rem 0;
   background-color: #f0f0f0;
   padding: 0.3em;
+  border-radius: 20px;
 }
 
 .headingXl {
@@ -16,6 +17,7 @@
   margin: 1rem 0;
   background-color: #f0f0f0;
   padding: 0.3em;
+  border-radius: 20px;
 }
 
 .headingLg {
@@ -24,6 +26,7 @@
   margin: 1rem 0;
   background-color: #f0f0f0;
   padding: 0.3em;
+  border-radius: 20px;
 }
 
 .headingMd {
@@ -31,6 +34,7 @@
   line-height: 1.5;
   background-color: #f0f0f0;
   padding: 0.3em;
+  border-radius: 20px;
 }
 
 .borderCircle {
