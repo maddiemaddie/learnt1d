@@ -10,7 +10,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Sample website using Next.js</p>
+        <p>Type 1 Diabetes</p>
         <p>
           Click <Link href="/posts/first-post/"><a>here</a></Link> to move to the next page
         </p>
