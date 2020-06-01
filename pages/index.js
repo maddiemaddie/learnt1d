@@ -82,7 +82,7 @@ export default function Home() {
       </aside>
       <p>This content is provided as a service of the&nbsp;<a href="https://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases</a>&nbsp;(NIDDK), part of the National Institutes of Health. The NIDDK translates and disseminates research findings to increase knowledge and understanding about health and disease among patients, health professionals, and the public. Content produced by the NIDDK is carefully reviewed by NIDDK scientists and other experts.</p>
       <p>The NIDDK would like to thank:Rita Basu, M.D., Mayo Clinic</p>
-      <strong>Syndicated Content Details:</strong><br />Source URL:&nbsp;<a href="https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes">https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes</a><br />Source Agency:&nbsp;<a href="http://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</a><br />Captured Date: 2018-04-17 16:33:34.0</div>
+      <strong>Syndicated Content Details:</strong><br />Source URL:&nbsp;<a href="https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes">https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes</a><br />Source Agency:&nbsp;<a href="http://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</a><br />Captured Date: 2018-04-17 16:33:34.0
       </div>
     </Layout>
   )
