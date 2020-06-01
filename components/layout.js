@@ -3,7 +3,7 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Maddie T'
+const name = 'Diabetes Education'
 export const siteTitle = 'Sample Website'
 
 export default function Layout({ children, home }) {
@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="I'm learning how to build a site using Next.js"
+          content="Information about diabetes and diabetes self-management"
         />
         <meta
           property="og:image"
