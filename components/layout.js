@@ -10,8 +10,8 @@ export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
-      //<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-      <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
           content="Committed to raising awareness about type 1 diabetes"
