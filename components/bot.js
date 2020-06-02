@@ -2,6 +2,7 @@ import ChatBot from 'react-simple-chatbot';
 
 export default function Bot{
   return (
+    <>
       <ChatBot
       steps={[
         {
@@ -11,5 +12,6 @@ export default function Bot{
         },
       ]}
       />
+      </>
   )
 }
