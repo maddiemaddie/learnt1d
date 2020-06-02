@@ -29,4 +29,4 @@ const Bot = () => (
   </ThemeProvider>
 )
 
-export default Bot;
+export default Bot
