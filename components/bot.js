@@ -1,3 +1,4 @@
+import { ThemeProvider } from 'styled-components';
 import ChatBot from 'react-simple-chatbot';
 
 const theme = {
