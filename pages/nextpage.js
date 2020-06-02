@@ -2,9 +2,19 @@ import Head from 'next/head'
 import Link from 'next/link'
 import Layout, { siteTitle } from '../components/layout'
 import utilStyles from '../styles/utils.module.css'
+import ChatBot from 'react-simple-chatbot';
 
 export default function nextpage() {
   return (
+<ChatBot
+  steps={[
+    {
+      id: 'hello-world',
+      message: 'Hello World!',
+      end: true,
+    },
+  ]}
+/>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
