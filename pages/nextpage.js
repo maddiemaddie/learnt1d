@@ -6,7 +6,9 @@ import Bot from '../components/bot';
 
 export default function nextpage() {
   return (
+    <>
     <Bot />
+    </>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
