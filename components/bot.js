@@ -1,6 +1,6 @@
 import ChatBot from 'react-simple-chatbot';
 
-export default function Bot {
+function Bot {
   return (
     <>
       <ChatBot
@@ -15,3 +15,5 @@ export default function Bot {
       </>
   )
 }
+
+export default Bot
