@@ -12,6 +12,7 @@ const theme = {
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
   floating: 'true',
+  floatingStyle: 'right'
 };
 
 const steps = [
