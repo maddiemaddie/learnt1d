@@ -15,6 +15,8 @@ export default function nextpage() {
     },
   ]}
 />
+<>
+</>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
