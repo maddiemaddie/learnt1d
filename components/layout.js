@@ -3,8 +3,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Diabetes Education'
-export const siteTitle = 'Sample Website'
+const name = 'Learn T1D'
+export const siteTitle = 'Learn T1D'
 
 export default function Layout({ children, home }) {
   return (
@@ -13,7 +13,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Information about diabetes and diabetes self-management"
+          content="Committed to raising awareness about type 1 diabetes"
         />
         <meta
           property="og:image"
@@ -27,7 +27,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className={utilStyles.heading2Xl}>learn t1d</h1>
           </>
         ) : (
           <>

@@ -7,7 +7,7 @@ export default function nextpage() {
   return (
     <Layout home>
       <Head>
-        <title>Diabetes Education</title>
+        <title>Learn T1D</title>
       </Head>
 <h1>What is Diabetes?</h1>
 <p>Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat.&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=E4F45E1ECD364F7D946A83B83003340A&amp;_z=z">Insulin</a>, a&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=0C2DFA8740434D4D9FB3D46BA0F185AB&amp;_z=z">hormone</a>&nbsp;made by the&nbsp;<a href="https://www.niddk.nih.gov/syndication/~/link.aspx?_id=7C416DD4D72945BF9B7C87D9A8B1DA3D&amp;_z=z">pancreas</a>, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn&rsquo;t make enough&mdash;or any&mdash;insulin or doesn&rsquo;t use insulin well. Glucose then stays in your blood and doesn&rsquo;t reach your cells.</p>
