@@ -58,7 +58,7 @@ export default function nextpage() {
 </div>
     </Layout>
 </div>
-<div>
+<div className="bot">
 <Bot />
 </div>
 </>
