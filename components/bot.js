@@ -16,7 +16,7 @@ const theme = {
 const steps = [
   {
     floating: true,
-    floatingStyle: 'right',
+    floatingStyle: 'transformOrigin',
     id: '1',
     message: 'Hello World',
     end: true,
