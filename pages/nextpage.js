@@ -6,10 +6,10 @@ import Bot from '../components/bot';
 
 export default function nextpage() {
   return (
+    <>
     <div>
     <Bot />
     </div>
-    <div></div>
     <div>
     <Layout home>
       <Head>
@@ -61,5 +61,6 @@ export default function nextpage() {
 </div>
     </Layout>
 </div>
+</>
   )
 }
