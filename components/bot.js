@@ -5,7 +5,7 @@ import ChatBot from 'react-simple-chatbot';
 const theme = {
   background: '#f5f8fb',
   fontFamily: 'Helvetica Neue',
-  headerBgColor: '#EF6C00',
+  headerBgColor: '#271789',
   headerFontColor: '#fff',
   headerFontSize: '15px',
   botBubbleColor: '#EF6C00',
