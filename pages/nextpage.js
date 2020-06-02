@@ -10,8 +10,6 @@ export default function nextpage() {
     <Bot />
     </>
     <>
-    </>
-    <>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
