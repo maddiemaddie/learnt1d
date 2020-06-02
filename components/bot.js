@@ -27,6 +27,6 @@ const Bot = () => (
   <ThemeProvider theme={theme}>
     <ChatBot steps={steps} />;
   </ThemeProvider>
-);
+)
 
 export default Bot;
