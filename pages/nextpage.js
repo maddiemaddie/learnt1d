@@ -9,7 +9,7 @@ export default function nextpage() {
     <div>
     <Bot />
     </div>
-    <></>
+    <div></div>
     <div>
     <Layout home>
       <Head>
