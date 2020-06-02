@@ -11,12 +11,12 @@ const theme = {
   botFontColor: '#fff',
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
-  floating: true,
-  floatingStyle: 'right'
 };
 
 const steps = [
   {
+    floating: true,
+    floatingStyle: 'right',
     id: '1',
     message: 'Hello World',
     end: true,
