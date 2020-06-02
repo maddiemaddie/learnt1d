@@ -7,6 +7,9 @@ import Bot from '../components/bot';
 export default function nextpage() {
   return (
     <>
+    <div className="bot">
+    <Bot />
+    </div>
     <div>
     <Layout home>
       <Head>
@@ -57,9 +60,6 @@ export default function nextpage() {
 <strong>Syndicated Content Details:</strong><br />Source URL:&nbsp;<a href="https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes">https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes</a><br />Source Agency:&nbsp;<a href="http://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</a><br />Captured Date: 2017-06-19 23:53:06.0
 </div>
     </Layout>
-</div>
-<div className="bot">
-<Bot />
 </div>
 </>
   )
