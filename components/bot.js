@@ -5,7 +5,8 @@ import ChatBot from 'react-simple-chatbot';
 const config = {
    width: "300px",
    height: "400px",
-   floating: true
+   floating: true,
+   padding: "5%"
  };
 
 const theme = {
