@@ -7,6 +7,9 @@ import Bot from '../components/bot';
 export default function Home() {
   return (
     <>
+    <div className="bot">
+    <Bot />
+    </div>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
@@ -85,9 +88,6 @@ export default function Home() {
       <strong>Syndicated Content Details:</strong><br />Source URL:&nbsp;<a href="https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes">https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-1-diabetes</a><br />Source Agency:&nbsp;<a href="http://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</a><br />Captured Date: 2018-04-17 16:33:34.0
       </div>
     </Layout>
-    <div className="bot">
-    <Bot />
-    </div>
-    </>
+</>
   )
 }
