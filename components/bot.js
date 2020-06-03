@@ -16,7 +16,6 @@ const theme = {
 
 const steps = [
   {
-    floatingStyle: 'left',
     id: '1',
     message: 'Hello World',
     end: true,
@@ -24,6 +23,7 @@ const steps = [
 ];
 
 const Bot = () => (
+  floating: 'true',
   <ThemeProvider theme={theme}>
     <ChatBot steps={steps} />;
   </ThemeProvider>
