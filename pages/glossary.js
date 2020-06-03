@@ -4,27 +4,21 @@ import Layout, { siteTitle } from '../components/layout'
 import utilStyles from '../styles/utils.module.css'
 import Bot from '../components/bot';
 
-export default function Home() {
+export default function nextpage() {
   return (
     <>
     <div className="bot">
     <Bot />
     </div>
+    <div>
     <Layout home>
       <Head>
-        <title>Learn T1D</title>
+        <title>Learn T1D | Glossary</title>
       </Head>
-      <p>
-      <Link href="/nextpage">
-        <a>Learn more</a>
-      </Link>
-      </p>
-      <p>
-      <Link href="/glossary">
-        <a>Glossary</a>
-      </Link>
-      </p>
+      <h3>Glossary of Terms</h3>
+</div>
     </Layout>
+</div>
 </>
   )
 }
