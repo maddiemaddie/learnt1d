@@ -7,7 +7,7 @@ const config = {
    height: "400px",
    floating: true
  };
- 
+
 const theme = {
   background: '#f5f8fb',
   fontFamily: 'Helvetica Neue',
@@ -29,7 +29,6 @@ const steps = [
 ];
 
 const Bot = () => (
-  floating: 'true',
   <ThemeProvider theme={theme}>
     <ChatBot steps={steps} {...config}/>;
   </ThemeProvider>
