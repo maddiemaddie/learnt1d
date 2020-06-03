@@ -24,7 +24,14 @@ const steps = [
   {
     id: '1',
     message: 'Hello World',
-    end: true,
+  },
+  {
+    id: '2',
+    message: 'Here is a second message',
+  },
+  {
+    id: '3',
+    message: 'Here is another message',
   },
 ];
 
