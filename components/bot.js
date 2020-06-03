@@ -8,7 +8,7 @@ const config = {
    floating: true,
    botAvatar: "drop.svg",
    hideBotAvatar: true,
-   hideUserAvatar: true;
+   hideUserAvatar: true,
  };
 
 const theme = {
