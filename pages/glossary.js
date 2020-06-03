@@ -17,7 +17,7 @@ export default function nextpage() {
       </Head>
       <h3>Glossary of Terms</h3>
       <Link href="/">
-        <a className={utilStyles.colorInherit}>{name}</a>
+        <a className={utilStyles.colorInherit}>Home</a>
       </Link>
     </Layout>
   </div>
