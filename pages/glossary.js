@@ -18,7 +18,6 @@ export default function nextpage() {
       <h3>Glossary of Terms</h3>
 </div>
     </Layout>
-</div>
 </>
   )
 }
