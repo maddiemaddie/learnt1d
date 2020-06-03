@@ -6,6 +6,7 @@ const config = {
    width: "300px",
    height: "400px",
    floating: true,
+   botAvatar: "drop.svg",
  };
 
 const theme = {
