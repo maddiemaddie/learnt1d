@@ -16,6 +16,9 @@ export default function nextpage() {
         <title>Learn T1D | Glossary</title>
       </Head>
       <h3>Glossary of Terms</h3>
+      <Link href="/">
+        <a className={utilStyles.colorInherit}>{name}</a>
+      </Link>
     </Layout>
   </div>
 </>
