@@ -6,7 +6,7 @@ const config = {
    width: "300px",
    height: "400px",
    floating: true,
-   padding: "5%"
+   padding: "10%"
  };
 
 const theme = {
