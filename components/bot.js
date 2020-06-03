@@ -10,6 +10,7 @@ const config = {
    hideBotAvatar: true,
    hideUserAvatar: true,
    enableSmoothScroll: true,
+   hideSubmitButton: true,
  };
 
 const theme = {
