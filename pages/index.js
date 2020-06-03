@@ -24,8 +24,8 @@ export default function Home() {
         <a>Glossary</a>
       </Link>
       </p>
-      <h3>What is Learn T1D?</h3>
-      <h5>We're a community committed to raising awareness about type 1 diabetes?</h5>
+      <h3 className{utilStyles.headingMd}>What is Learn T1D?</h3>
+      <p>We're a community committed to raising awareness about type 1 diabetes</p>
     </Layout>
 </>
   )
