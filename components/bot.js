@@ -9,6 +9,7 @@ const config = {
    botAvatar: "drop.svg",
    hideBotAvatar: true,
    hideUserAvatar: true,
+   enableSmoothScroll: true,
  };
 
 const theme = {
