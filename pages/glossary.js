@@ -19,6 +19,10 @@ export default function nextpage() {
       <Link href="/">
         <a className={utilStyles.colorInherit}>Home</a>
       </Link>
+      <div className="defintion">
+        <h3>Insulin</h3>
+        <p>A hormone made by your pancreas that helps your body use glucose (blood sugar) for energy. Insulin helps to control blood glucose levels.</p>
+      </div>
     </Layout>
   </div>
 </>

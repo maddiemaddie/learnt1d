@@ -36,3 +36,9 @@ img {
 .bot {
   padding-right: 10%;
 }
+
+.definition {
+  p {
+    color: red;
+  }
+}
