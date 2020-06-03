@@ -24,10 +24,12 @@ const steps = [
   {
     id: '1',
     message: 'Hello World',
+    trigger: '2',
   },
   {
     id: '2',
     message: 'Here is a second message',
+    trigger: '3',
   },
   {
     id: '3',
