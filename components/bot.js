@@ -6,7 +6,6 @@ const config = {
    width: "300px",
    height: "400px",
    floating: true,
-   padding: "10%"
  };
 
 const theme = {
@@ -15,8 +14,8 @@ const theme = {
   headerBgColor: '#271789',
   headerFontColor: '#fff',
   headerFontSize: '15px',
-  botBubbleColor: '#c7d0d8',
-  botFontColor: '#fff',
+  botBubbleColor: '#dedede',
+  botFontColor: '#000000',
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
 };
