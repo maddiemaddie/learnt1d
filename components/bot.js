@@ -10,7 +10,7 @@ const config = {
 
 const theme = {
   background: '#f5f8fb',
-  fontFamily: 'Helvetica Neue',
+  fontFamily: 'sans-serif',
   headerBgColor: '#271789',
   headerFontColor: '#fff',
   headerFontSize: '15px',
