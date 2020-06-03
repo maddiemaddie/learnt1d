@@ -7,6 +7,7 @@ const config = {
    height: "400px",
    floating: true,
    botAvatar: "drop.svg",
+   hideBotAvatar: true;
  };
 
 const theme = {
