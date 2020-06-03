@@ -7,9 +7,6 @@ import Bot from '../components/bot';
 export default function Home() {
   return (
     <>
-    <div className="bot">
-    <Bot />
-    </div>
     <Layout home>
       <Head>
         <title>Learn T1D</title>
@@ -27,6 +24,9 @@ export default function Home() {
       <h3 className={utilStyles.headingMd}>What is Learn T1D?</h3>
       <p>We're a community committed to raising awareness about type 1 diabetes</p>
     </Layout>
+    <div className="bot">
+    <Bot />
+    </div>
 </>
   )
 }

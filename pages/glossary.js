@@ -7,9 +7,6 @@ import Bot from '../components/bot';
 export default function nextpage() {
   return (
     <>
-    <div className="bot">
-    <Bot />
-    </div>
     <div>
     <Layout home>
       <Head>
@@ -28,6 +25,9 @@ export default function nextpage() {
       </dl>
       </div>
     </Layout>
+  </div>
+  <div className="bot">
+  <Bot />
   </div>
 </>
   )
