@@ -8,7 +8,7 @@ const theme = {
   headerBgColor: '#271789',
   headerFontColor: '#fff',
   headerFontSize: '15px',
-  botBubbleColor: '#EF6C00',
+  botBubbleColor: '#c7d0d8',
   botFontColor: '#fff',
   userBubbleColor: '#fff',
   userFontColor: '#4a4a4a',
