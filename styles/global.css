@@ -37,6 +37,10 @@ img {
   padding-right: 10%;
 }
 
+.logo {
+  user-drag: none;
+}
+
 .definition {
   p {
     color: red;
