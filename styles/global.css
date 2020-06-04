@@ -38,7 +38,7 @@ img {
 }
 
 .logo {
-  user-drag: none;
+  pointer-events: none;
 }
 
 .definition {
