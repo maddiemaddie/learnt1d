@@ -15,6 +15,7 @@ export default function Layout({ children, home }) {
           name="description"
           content="Committed to raising awareness about type 1 diabetes"
         />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           property="og:image"
           content={`https://og-image.now.sh/${encodeURI(
@@ -26,7 +27,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <img src="drop.svg" alt="Learn T1D logo" width="10%" height="10%" className="logo" />
+            <img src="logo.svg" alt="Learn T1D logo" width="10%" height="10%" className="logo" />
             <h1 className={utilStyles.heading2Xl}>learn t1d</h1>
           </>
         ) : (
