@@ -27,7 +27,7 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <img src="logo.svg" alt="Learn T1D logo" width="50%" height="50%" className="logo" />
+            <img src="logo.svg" alt="Learn T1D logo" width="40%" height="40%" className="logo" />
         //    <h1 className={utilStyles.heading2Xl}>learn t1d</h1>
           </>
         ) : (
