@@ -31,6 +31,7 @@ export default function Layout({ children, home }) {
             <li><img src="logo.svg" alt="Learn T1D logo"  className="logo" /></li>
             <li><img src="instagram.svg" alt="Instagram logo" className="insta"/></li>
           </ul>
+          <br /><br />
           </>
         ) : (
           <>
