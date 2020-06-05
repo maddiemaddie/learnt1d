@@ -36,7 +36,7 @@ const steps = [
           ],
           trigger: '2',
           message: "Sounds great! I'm here if you need anything."
-          end: true;
+          end: true,
         },
         {
           id: '3',
