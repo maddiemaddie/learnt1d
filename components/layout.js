@@ -40,6 +40,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
+      <ul><li>Resources</li></ul>
       <main>{children}</main>
     </div>
   )
