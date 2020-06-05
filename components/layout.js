@@ -27,16 +27,10 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <img src="logo.svg" alt="Learn T1D logo"  className="logo" width="40%" height="40%"/>
-            <img src="instagram.svg" alt="Instagram logo" className="insta" width="7%" height="7%"/>
+            <img src="logo.svg" alt="Learn T1D logo"  className="logo" width="50%" height="50%"/>
           </>
         ) : (
           <>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/">
-                <a className={utilStyles.colorInherit}>{name}</a>
-              </Link>
-            </h2>
           </>
         )}
       </header>
