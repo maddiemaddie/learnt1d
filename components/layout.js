@@ -28,10 +28,14 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
             <Link href="/"><a><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="50%" height="50%"/></a></Link>
+            <ul>
+              <li>Resources</li>
+              <li>Glossary</li>
+              <li>About</li>
+            </ul>
           </>
         ) : (
           <>
-
           </>
         )}
       </header>
