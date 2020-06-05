@@ -37,6 +37,9 @@ img {
   padding-right: 10%;
 }
 
+.logo {
+    pointer-events: none;
+}
 .definition {
   p {
     color: red;
