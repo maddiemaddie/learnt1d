@@ -44,7 +44,7 @@ img {
 .insta {
   pointer-events: none;
   position: fixed;
-  right: 100%;
+  right: 10%;
 }
 
 .definition {
