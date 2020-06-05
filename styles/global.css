@@ -40,6 +40,11 @@ img {
 .logo {
     pointer-events: none;
 }
+
+.insta {
+  pointer-events: none;
+  float: right;
+}
 .definition {
   p {
     color: red;
