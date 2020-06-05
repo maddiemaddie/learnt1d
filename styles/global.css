@@ -47,7 +47,9 @@ img {
 }
 
 .insta {
-  /*float: right;*/
+  float: right;
+  margin: 0px;
+  padding: 0px;
 }
 
 .definition {
