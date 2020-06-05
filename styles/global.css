@@ -43,7 +43,7 @@ img {
 
 .insta {
   pointer-events: none;
-  float: right;
+  position: right;
 }
 .definition {
   p {
