@@ -27,10 +27,8 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-          <ul className="headbar">
-            <li><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="40%" height="40%"/></li>
-            <li><img src="instagram.svg" alt="Instagram logo" className="insta" width="7%" height="7%"/></li>
-          </ul>
+            <img src="logo.svg" alt="Learn T1D logo"  className="logo" width="40%" height="40%"/><
+            <img src="instagram.svg" alt="Instagram logo" className="insta" width="7%" height="7%"/>
           </>
         ) : (
           <>
