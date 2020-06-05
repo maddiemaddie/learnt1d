@@ -35,7 +35,7 @@ const steps = [
             { value: 3, label: 'Not sure', trigger: '3' },
           ],
           trigger: '2',
-          message: "Sounds great! I'm here if you need anything."
+          message: "Sounds great! I'm here if you need anything.",
           end: true,
         },
         {
