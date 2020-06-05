@@ -28,15 +28,15 @@ const theme = {
 const steps = [
   {
           id: '1',
-          message: 'What number I am thinking?',
+          message: "Hello! I'm here to help. Are you looking for anything in particular?",
           trigger: '2',
         },
         {
           id: '2',
           options: [
-            { value: 1, label: 'Number 1', trigger: '4' },
-            { value: 2, label: 'Number 2', trigger: '3' },
-            { value: 3, label: 'Number 3', trigger: '3' },
+            { value: 1, label: 'Yes', trigger: '4' },
+            { value: 2, label: 'No', trigger: '3' },
+            { value: 3, label: 'Not sure', trigger: '3' },
           ],
         },
         {
