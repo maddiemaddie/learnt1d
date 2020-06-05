@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
           <ul className="headbar">
-            <li><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="30%" height="30%"/></li>
+            <li><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="40%" height="40%"/></li>
             <li><img src="instagram.svg" alt="Instagram logo" className="insta" width="7%" height="7%"/></li>
           </ul>
           </>
