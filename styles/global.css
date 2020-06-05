@@ -43,6 +43,10 @@ img {
   overflow: hidden;
 }
 
+.insta {
+  float: right;
+}
+
 .definition {
   p {
     color: red;
