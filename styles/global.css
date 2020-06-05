@@ -41,6 +41,10 @@ img {
   pointer-events: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .insta {
   float: right;
   margin: 0px;
