@@ -42,8 +42,12 @@ const steps = [
         {
         id: '3',
           message: 'Sounds great! Type "HELP" if you need anything.',
+          trigger: '3.2'
+        },
+        {
+          id: '3.2',
           user: true,
-          trigger: '5'
+          trigger: 5,
         },
         {
           id: '4',
