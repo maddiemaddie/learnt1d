@@ -43,8 +43,10 @@ img {
 
 .insta {
   pointer-events: none;
-  position: right;
+  position: static;
+  right: 0%;
 }
+
 .definition {
   p {
     color: red;
