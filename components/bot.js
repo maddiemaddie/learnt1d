@@ -41,18 +41,35 @@ const steps = [
     },
         {
         id: '3',
-          message: "Sounds great! I'm here if you need anything.",
-          end: true,
+          message: 'Sounds great! Type "HELP" if you need anything.',
+          user: true,
+          trigger: '5'
         },
         {
           id: '4',
-          message: 'Wrong answer, try again.',
-      //    trigger: '2',
+          message: "That's alright. " + 'Type "HELP" if you need anything.',
+          user: true,
+          trigger: '5',
         },
         {
           id: '5',
-          message: 'Awesome! You are a telepath!',
-          end: true,
+          message: 'Awesome! Here are some things I can help you find:',
+          trigger: '6',
+        },
+        {
+          id: '6',
+          options: [
+            { value: 1, label: 'Articles', trigger: 'articles' },
+            { value: 2, label: 'Definitions', trigger: 'defintions'}
+          ]
+        },
+        {
+          id: 'articles',
+          message: 'Here are some articles'
+        },
+        {
+          id: 'definitions',
+          message: 'Here are some defintions',
         },
 ];
 
