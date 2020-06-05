@@ -34,7 +34,7 @@ const steps = [
             { value: 2, label: 'No', trigger: '2' },
             { value: 3, label: 'Not sure', trigger: '3' },
           ],
-    }
+    },
         {
         id: '2',
           message: "Sounds great! I'm here if you need anything.",
