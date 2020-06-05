@@ -36,15 +36,14 @@ export default function Layout({ children, home }) {
           </>
         ) : (
           <>
-          <ul>
-            <li><Link href="/glossary"><a>Resources</a></Link></li>
-            <li>Glossary</li>
-            <li>About</li>
-          </ul>
           </>
         )}
       </header>
-      <ul><li>Resources</li></ul>
+      <ul>
+        <li><Link href="/glossary"><a>Resources</a></Link></li>
+        <li>Glossary</li>
+        <li>About</li>
+      </ul>
       <main>{children}</main>
     </div>
   )
