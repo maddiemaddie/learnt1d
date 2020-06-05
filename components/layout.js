@@ -28,8 +28,8 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
           <ul className="headbar">
-            <li><img src="logo.svg" alt="Learn T1D logo" width=".10em" height=".10em" className="logo" /></li>
-            <li><img src="instagram.svg" alt="Instagram logo" width=".1em" height=".1em" className="insta"/></li>
+            <li><img src="logo.svg" alt="Learn T1D logo"  className="logo" /></li>
+            <li><img src="instagram.svg" alt="Instagram logo" className="insta"/></li>
           </ul>
             <h1 className={utilStyles.heading2Xl}>learn t1d</h1>
           </>
