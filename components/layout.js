@@ -37,7 +37,7 @@ export default function Layout({ children, home }) {
         ) : (
           <>
           <ul>
-            <li>Resources</li>
+            <li><Link href="/glossary"><a>Resources</a></Link></li>
             <li>Glossary</li>
             <li>About</li>
           </ul>
