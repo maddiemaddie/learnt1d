@@ -60,7 +60,7 @@ const steps = [
           id: '6',
           options: [
             { value: 1, label: 'Articles', trigger: 'articles' },
-            { value: 2, label: 'Definitions', trigger: 'defintions'}
+            { value: 2, label: 'Definitions', trigger: 'def'}
           ]
         },
         {
@@ -68,7 +68,7 @@ const steps = [
           message: 'Here are some articles'
         },
         {
-          id: 'definitions',
+          id: 'def',
           message: 'Here are some defintions',
         },
 ];
