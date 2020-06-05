@@ -29,9 +29,9 @@ export default function Layout({ children, home }) {
           <>
             <Link href="/"><a><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="50%" height="50%"/></a></Link>
             <ul>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>w</li>
+              <li>w</li>
+              <li>w</li>
               <li><Link href="/"><img src="instagram.svg" alt="Learn T1D logo"  className="logo" width="100%" height="100%"/></Link></li>
             </ul>
           </>
