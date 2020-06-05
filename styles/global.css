@@ -50,6 +50,7 @@ img {
   float: right;
   margin: 0px;
   padding: 0px;
+  top: auto;
 }
 
 .definition {
