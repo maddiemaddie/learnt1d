@@ -29,20 +29,19 @@ const steps = [
   {
           id: '1',
           message: "Hello! I'm here to help. Are you looking for anything in particular?",
-          trigger: '2',
-        },
-        {
-          id: '2',
           options: [
             { value: 1, label: 'Yes', trigger: '4' },
-            { value: 2, label: 'No', trigger: '3' },
+            { value: 2, label: 'No', trigger: '2' },
             { value: 3, label: 'Not sure', trigger: '3' },
           ],
+          trigger: '2',
+          message: "Sounds great! I'm here if you need anything."
+          end: true;
         },
         {
           id: '3',
           message: 'Wrong answer, try again.',
-          trigger: '2',
+      //    trigger: '2',
         },
         {
           id: '4',
