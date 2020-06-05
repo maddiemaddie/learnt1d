@@ -39,6 +39,7 @@ img {
 
 .logo {
   pointer-events: none;
+  margin: 0;
   text-align: center;
   /*overflow: hidden;*/
 }
