@@ -15,10 +15,8 @@ export default function nextpage() {
       </Head>
       <h1>About</h1>
       <p>We're committed to spreading awareness about type 1 diabetes. You can find more updates on our Instagram page</p>
-      <div className="defintion">
       <div className="posts">
       <Post />
-      </div>
       </div>
     </Layout>
   </div>
