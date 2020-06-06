@@ -42,6 +42,10 @@
   background-color: #111;
 }
 
+.definition {
+  text-align: center;
+}
+
 .foot {
   font-style: italic;
   color: #271789;
