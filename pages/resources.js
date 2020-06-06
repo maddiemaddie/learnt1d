@@ -35,12 +35,12 @@ export default function nextpage() {
       </a>
 
       <a
-        href="https://vercel.com/new?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+        href="/insulin-and-other-treatments"
         className="card"
       >
-        <h3>Deploy &rarr;</h3>
+        <h3>Insulin, Medicines, &amp; Other Diabetes Treatments</h3>
         <p>
-          Instantly deploy your Next.js site to a public URL with Vercel.
+          Taking insulin or other diabetes medicines is often part of treating diabetes.
         </p>
       </a>
     </div>
