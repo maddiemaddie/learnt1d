@@ -10,6 +10,11 @@
  justify-content: center;
 }
 
+.posts {
+  display: flex;
+ align-items: center;
+ justify-content: center;
+}
 .nav ul {
   list-style-type: none;
   margin: 0;
