@@ -28,7 +28,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
             <Link href="/"><a><img src="logo.svg" alt="Learn T1D logo"  className="logo" width="100%" height="100%"/></a></Link>
-            <br /><br />
+
             <a href="https://www.instagram.com/learnt1d/" target="_blank"><img src="instagram.svg" alt="Learn T1D logo"  className="logo" width="100%" height="100%"/></a>
           </>
         ) : (
@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      <ul >
+      <ul className="spacer">
         <li><Link href="/resources"><a>Resources</a></Link></li>
         <li><Link href="/glossary"><a>Glossary</a></Link></li>
         <li><Link href="/about"><a>About</a></Link></li>
