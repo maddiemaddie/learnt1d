@@ -19,7 +19,7 @@
 }
 
 .nav li {
-  
+  float: inline;
 }
 
 .nav li a {
