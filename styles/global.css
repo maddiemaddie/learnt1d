@@ -51,8 +51,8 @@ ul {
   float: right;
 }
 
-.definition {
-  p {
-    color: red;
-  }
+.posts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
