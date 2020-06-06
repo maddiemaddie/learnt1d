@@ -19,8 +19,8 @@ export default function nextpage() {
       </div>
     </Layout>
   </div>
-  <div className="bot">
-  <Bot />
+  <div className="posts">
+  <Post />
   </div>
 </>
   )
