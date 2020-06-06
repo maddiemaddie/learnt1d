@@ -12,17 +12,10 @@ export default function nextpage() {
       <Head>
         <title>Learn T1D | About</title>
       </Head>
-      <h3>Glossary of Terms</h3>
-      <Link href="/">
-        <a className={utilStyles.colorInherit}>Home</a>
-      </Link>
+      <h2>About</h2>
+      <p>We're committed to spreading awareness about type 1 diabetes. You can find more updates on our Instagram page</p>
       <div className="defintion">
-      <dl>
-        <dt>Coffee</dt>
-          <dd>Black hot drink</dd>
-        <dt>Milk</dt>
-        <dd>White cold drink</dd>
-      </dl>
+
       </div>
     </Layout>
   </div>
