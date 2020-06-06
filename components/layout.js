@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      <ul className="spacer">
+      <ul className={styles.nav}>
         <li><Link href="/resources"><a>Resources</a></Link></li>
         <li><Link href="/glossary"><a>Glossary</a></Link></li>
         <li><Link href="/about"><a>About</a></Link></li>
