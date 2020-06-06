@@ -12,7 +12,7 @@ export default function nextpage() {
       <Head>
         <title>Learn T1D | About</title>
       </Head>
-      <h2>About</h2>
+      <h1>About</h1>
       <p>We're committed to spreading awareness about type 1 diabetes. You can find more updates on our Instagram page</p>
       <div className="defintion">
 
