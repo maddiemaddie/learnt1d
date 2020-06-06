@@ -3,6 +3,7 @@ import InstagramEmbed from 'react-instagram-embed';
 
 export default function Post() {
   return (
+    <>
     <InstagramEmbed
   url='https://www.instagram.com/p/CA_bCroBXjz/'
   maxWidth={320}
@@ -15,7 +16,6 @@ export default function Post() {
   onAfterRender={() => {}}
   onFailure={() => {}}
 />
-<></>
 <InstagramEmbed
 url='https://www.instagram.com/p/CA_b5mqB2u8/'
 maxWidth={320}
@@ -112,5 +112,6 @@ onSuccess={() => {}}
 onAfterRender={() => {}}
 onFailure={() => {}}
 />
+</>
 )
 }
