@@ -11,16 +11,6 @@ export default function Home() {
       <Head>
         <title>Learn T1D</title>
       </Head>
-      <p>
-      <Link href="/nextpage">
-        <a>Learn more</a>
-      </Link>
-      </p>
-      <p>
-      <Link href="/glossary">
-        <a>Glossary</a>
-      </Link>
-      </p>
       <h3>What is Learn T1D?</h3>
       <p>We're a community committed to raising awareness about type 1 diabetes</p>
     </Layout>
