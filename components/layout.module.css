@@ -35,3 +35,8 @@
 .nav li a:hover {
   background-color: #111;
 }
+
+.foot {
+  font-style: italic;
+  color: #271789;
+}

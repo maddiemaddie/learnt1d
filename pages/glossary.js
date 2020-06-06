@@ -12,7 +12,7 @@ export default function nextpage() {
       <Head>
         <title>Learn T1D | Glossary</title>
       </Head>
-      <h3>Glossary of Terms</h3>
+      <h1>Glossary of Terms</h1>
       <Link href="/">
         <a className={utilStyles.colorInherit}>Home</a>
       </Link>
