@@ -6,20 +6,43 @@
 
 .header {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+ align-items: center;
+ justify-content: center;
 }
 
-.headerImage {
-  width: 6rem;
-  height: 6rem;
+.head ul {
+  list-style-type: none;
+  color: #ffffff;
 }
 
-.headerHomeImage {
-  width: 8rem;
-  height: 8rem;
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
-.backToHome {
-  margin: 3rem 0 0;
+.nav li {
+  float: inline;
+  list-style-type: none;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  background-color: #333;
+  text-align: center;
+  padding: 20px 24px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.nav li a:hover {
+  background-color: #111;
+}
+
+.foot {
+  font-style: italic;
+  color: #271789;
 }

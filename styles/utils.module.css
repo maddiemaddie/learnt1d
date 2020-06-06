@@ -1,9 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@700&display=swap');
+
 .heading2Xl {
   font-size: 2.5rem;
   line-height: 1.2;
-  font-weight: 800;
-  letter-spacing: -0.05rem;
+  font-style: bold;
+  font-family: 'Archivo', sans-serif;
+  font-kerning: normal;
   margin: 1rem 0;
+  color: #271789;
+  padding: 0.3em;
 }
 
 .headingXl {
@@ -12,17 +17,26 @@
   font-weight: 800;
   letter-spacing: -0.05rem;
   margin: 1rem 0;
+  background-color: #f0f0f0;
+  padding: 0.3em;
+  border-radius: 20px;
 }
 
 .headingLg {
   font-size: 1.5rem;
   line-height: 1.4;
   margin: 1rem 0;
+  background-color: #f0f0f0;
+  padding: 0.3em;
+  border-radius: 20px;
 }
 
 .headingMd {
   font-size: 1.2rem;
   line-height: 1.5;
+  background-color: #f0f0f0;
+  padding: 0.3em;
+  border-radius: 20px;
 }
 
 .borderCircle {
