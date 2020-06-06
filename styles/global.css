@@ -27,7 +27,7 @@ img {
 }
 
 .reference {
-  background-color: #f0f0f0;
+  background-color: #dedede;
   font-size: 75%;
   border-radius: 15px;
   padding: 10px;
@@ -39,12 +39,8 @@ img {
 
 .logo {
   pointer-events: none;
-  margin: 0;
-  padding: 0;
-}
-
-.insta {
-  float: right;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .posts {

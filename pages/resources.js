@@ -21,17 +21,17 @@ export default function nextpage() {
         <p>Diabetes occurs when your blood glucose, also called blood sugar, is too high.</p>
       </a>
 
-      <a href="https://nextjs.org/learn" className="card">
-        <h3>Learn &rarr;</h3>
-        <p>Learn about Next.js in an interactive course with quizzes!</p>
+      <a href="/diabetes-diagnosis" className="card">
+        <h3>Diabetes & Diagnosis</h3>
+        <p>Your health care professional can diagnose diabetes, prediabetes, and gestational diabetes through blood tests.</p>
       </a>
 
       <a
-        href="https://github.com/zeit/next.js/tree/master/examples"
+        href="/symptoms-and-causes"
         className="card"
       >
-        <h3>Examples &rarr;</h3>
-        <p>Discover and deploy boilerplate example Next.js projects.</p>
+        <h3>Symptoms & Causes</h3>
+        <p>What are the symptoms and causes of diabetes?</p>
       </a>
 
       <a

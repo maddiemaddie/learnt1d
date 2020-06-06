@@ -10,6 +10,11 @@
  justify-content: center;
 }
 
+.head ul {
+  list-style-type: none;
+  color: #ffffff;
+}
+
 .nav ul {
   list-style-type: none;
   margin: 0;
@@ -20,6 +25,7 @@
 
 .nav li {
   float: inline;
+  list-style-type: none;
 }
 
 .nav li a {

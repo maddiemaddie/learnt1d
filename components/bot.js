@@ -36,12 +36,12 @@ const steps = [
       options: [
         { value: 1, label: 'Yes', trigger: '5' },
         { value: 2, label: 'No', trigger: '3' },
-        { value: 3, label: 'Not sure', trigger: '4' },
+        { value: 3, label: 'Not sure', trigger: '3' },
       ],
     },
         {
         id: '3',
-          message: 'Sounds great! Type "HELP" if you need anything.',
+          message: 'Okay! Type "HELP" if you need anything.',
           trigger: '3.2',
         },
         {
@@ -63,12 +63,12 @@ const steps = [
         {
           id: '6',
           options: [
-            { value: 1, label: 'Articles', trigger: 'articles' },
-            { value: 2, label: 'Definitions', trigger: 'def'}
+            { value: 1, label: 'Support', trigger: 'support' },
+            { value: 2, label: 'Definitions', trigger: 'def'},
           ]
         },
         {
-          id: 'articles',
+          id: 'support',
           message: 'Here are some articles'
         },
         {
