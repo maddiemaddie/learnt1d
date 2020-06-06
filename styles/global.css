@@ -52,5 +52,7 @@ ul {
 }
 
 .posts {
-  display: flex;
+  display: inline-grid;
+  padding: 40px;
+  margin-left: 5em;
 }

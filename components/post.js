@@ -6,7 +6,7 @@ export default function Post() {
     <>
     <InstagramEmbed
   url='https://www.instagram.com/p/CA_bCroBXjz/'
-  maxWidth={100%}
+  maxWidth={320}
   hideCaption={true}
   containerTagName='div'
   injectScript
