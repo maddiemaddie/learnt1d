@@ -124,6 +124,30 @@ onSuccess={() => {}}
 onAfterRender={() => {}}
 onFailure={() => {}}
 />
+<InstagramEmbed
+url='https://www.instagram.com/p/CBGYTkfBOcE/'
+maxWidth={320}
+hideCaption={true}
+containerTagName='div'
+injectScript
+protocol=''
+onLoading={() => {}}
+onSuccess={() => {}}
+onAfterRender={() => {}}
+onFailure={() => {}}
+/>
+<InstagramEmbed
+url='https://www.instagram.com/p/CBMIJ3pFcgR/'
+maxWidth={320}
+hideCaption={true}
+containerTagName='div'
+injectScript
+protocol=''
+onLoading={() => {}}
+onSuccess={() => {}}
+onAfterRender={() => {}}
+onFailure={() => {}}
+/>
 </>
 )
 }
