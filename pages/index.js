@@ -11,10 +11,10 @@ export default function Home() {
       <Head>
         <title>Learn T1D</title>
       </Head>
-      <h3>What is Learn T1D?</h3>
-      <p>We're a community committed to raising awareness about type 1 diabetes</p>
-      <p>T1D impacts the lives of millions, yet many aren't aware of the effects it has</p>
-      <p>We're coming together to change that.</p>
+       <div className="defintion">
+     <h3>What is Learn T1D?</h3>
+    <p>We're a community committed to raising awareness about type one diabetes. T1D impacts the lives of millions, yet many aren't aware of the effects it has. We're coming together to change that</p>
+      </div>
     </Layout>
     <div className="bot">
     <Bot />
