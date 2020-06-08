@@ -41,7 +41,7 @@ export default function Layout({ children, home }) {
       </ul>
       <main>{children}</main>
       <footer className={styles.foot}>
-      Knowledge is Power
+      Stronger Together
       </footer>
     </div>
   )
