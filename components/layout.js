@@ -34,11 +34,11 @@ export default function Layout({ children, home }) {
           </>
         )}
       </header>
-      <ul className={styles.nav}>
-        <li><Link href="/resources"><a>Resources</a></Link></li>
-        <li><Link href="/glossary"><a>Glossary</a></Link></li>
-        <li><Link href="/about"><a>About</a></Link></li>
-      </ul>
+    <ul className={styles.nav}>
+    <li className={styles.nav}><Link href="/resources"><a>Resources</a></Link></li>
+    <li className={styles.nav}><Link href="/glossary"><a>Glossary</a></Link></li>
+    <li className={styles.nav}><Link href="/about"><a>About</a></Link></li>
+    </ul>
       <main>{children}</main>
       <footer className={styles.foot}>
       Stronger Together
