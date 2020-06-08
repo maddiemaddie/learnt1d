@@ -13,6 +13,8 @@ export default function Home() {
       </Head>
       <h3>What is Learn T1D?</h3>
       <p>We're a community committed to raising awareness about type 1 diabetes</p>
+      <p>T1D impacts the lives of millions, yet many aren't aware of the effects it has</p>
+      <p>We're coming together to change that.</p>
     </Layout>
     <div className="bot">
     <Bot />
