@@ -112,6 +112,18 @@ onSuccess={() => {}}
 onAfterRender={() => {}}
 onFailure={() => {}}
 />
+<InstagramEmbed
+url='https://www.instagram.com/p/CBGSiyoBGNh/'
+maxWidth={320}
+hideCaption={true}
+containerTagName='div'
+injectScript
+protocol=''
+onLoading={() => {}}
+onSuccess={() => {}}
+onAfterRender={() => {}}
+onFailure={() => {}}
+/>
 </>
 )
 }

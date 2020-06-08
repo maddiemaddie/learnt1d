@@ -15,32 +15,16 @@
   color: #ffffff;
 }
 
-.nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-.nav li {
-  float: inline;
-  list-style-type: none;
-}
-
-.nav li a {
-  display: block;
-  color: white;
-  background-color: #333;
+.nav  {
+	list-style-type: none;
+  display: inline;
+	padding-right: 20px;
   text-align: center;
-  padding: 20px 24px;
-  text-decoration: none;
-}
+  display: flex;
+ align-items: center;
+ justify-content: center;
+	}
 
-/* Change the link color to #111 (black) on hover */
-.nav li a:hover {
-  background-color: #111;
-}
 
 .definition {
   text-align: center;
