@@ -69,7 +69,7 @@ const steps = [
         },
         {
           id: 'support',
-          message: 'Here are some articles'
+          message: 'If you or a loved one need support, you can visit' + <a href="www.google.com"></a> + 'this link',
         },
         {
           id: 'def',
