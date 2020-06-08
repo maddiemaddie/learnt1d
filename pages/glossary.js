@@ -17,7 +17,7 @@ export default function nextpage() {
       <p>A hormone made by your pancreas that helps your body use glucose (blood sugar) for energy. Insulin helps to control blood glucose levels.</p>
       <h3>Pancreas -</h3>
       <p>An organ located behind the lower part of your stomach. The pancreas makes the hormone insulin to control blood glucose and also makes enzymes and fluids for digestion.</p>
-      <div class="reference">Defintions taken from the National Institute of Diabetes and Digestive and Kidney Diseases</div>
+      <div class="reference">Defintions taken from the <a href="https://www.niddk.nih.gov/">National Institute of Diabetes and Digestive and Kidney Diseases</a></div>
     </Layout>
   </div>
   <div className="bot">
