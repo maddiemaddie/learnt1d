@@ -11,6 +11,7 @@ const config = {
    hideUserAvatar: true,
    enableSmoothScroll: true,
    enableMobileAutoFocus: true,
+   placeholder: "Type a message",
  };
 
 const theme = {
@@ -73,7 +74,23 @@ const steps = [
         },
         {
           id: 'def',
-          message: 'Here are some defintions',
+          message: 'What word would you like defined?',
+          trigger: 'word',
+        },
+        {
+          id: 'word',
+          options: [
+            { value: 1, label: 'Insulin', trigger: 'insulin' },
+            { value: 2, label: 'Pancreas', trigger: 'pancreas' },
+          ]
+        },
+        {
+          id: 'insulin',
+          message: 'A hormone made by your pancreas that helps your body use glucose (blood sugar) for energy. Insulin helps to control blood glucose levels.',
+        },
+        {
+          id: 'pancreas',
+          message: 'An organ located behind the lower part of your stomach. The pancreas makes the hormone insulin to control blood glucose and also makes enzymes and fluids for digestion.',
         },
 ];
 
