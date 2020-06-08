@@ -58,19 +58,19 @@ const steps = [
         },
         {
           id: '5',
-          message: 'Awesome! Here are some things I can help you find:',
+          message: 'Awesome! Here are some things I can help you with:',
           trigger: '6',
         },
         {
           id: '6',
           options: [
-            { value: 1, label: 'Support', trigger: 'support' },
+            { value: 1, label: 'Learn More', trigger: 'support' },
             { value: 2, label: 'Definitions', trigger: 'def'},
           ]
         },
         {
           id: 'support',
-          message: 'If you or a loved one need support, you can visit' + <a href="www.google.com"></a> + 'this link',
+          message: 'To learn more, you can visit our Instagram page (@learnt1d) or visit our resources',
         },
         {
           id: 'def',
